@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: We might consider using Git since it is a version control tool and allows us to keep track of changed we have made and also make it possible to revert changes. It is also useful when working with other people to make sure that everyone has up to date code.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: A field that data science can be applied to is finance. An example of this are investment banks. They use data science to evaluate investments and risk to see if they are making a good investment.
+
