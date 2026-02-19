@@ -9,3 +9,7 @@ Answer: A field that data science can be applied to is finance. An example of th
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging joins two branches together keeping the code from both branches while rebasing rewrites the code over another branch only keeping the code from the one branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more data science concepts, especially libraries like pandas and numpy so I can use these tools to analyse stocks.
